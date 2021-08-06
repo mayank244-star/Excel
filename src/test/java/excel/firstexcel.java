@@ -55,10 +55,10 @@ public class firstexcel {
          	
          	System.out.println("Enter the number of rows you want to enter");
            	Scanner sc = new Scanner(System.in);
-           	int n = sc.nextInt();
+           	//int n = sc.nextInt();
            	Faker faker = new Faker();
 
-           	for(int i=1;i<=n;i++) {
+           	for(int i=1;i<=100;i++) {
            		
            		String str1 = passwordgenerator();
            		
