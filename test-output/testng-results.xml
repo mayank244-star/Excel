@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5693" started-at="2021-08-06T14:14:48 IST" finished-at="2021-08-06T14:14:54 IST">
+  <suite name="Default suite" duration-ms="9518" started-at="2021-08-06T16:49:49 IST" finished-at="2021-08-06T16:49:59 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5693" started-at="2021-08-06T14:14:48 IST" finished-at="2021-08-06T14:14:54 IST">
+    <test name="Default test" duration-ms="9518" started-at="2021-08-06T16:49:49 IST" finished-at="2021-08-06T16:49:59 IST">
       <class name="excel.firstexcel">
-        <test-method status="PASS" signature="m1()[pri:0, instance:excel.firstexcel@1206beb]" name="m1" duration-ms="5565" started-at="2021-08-06T14:14:48 IST" finished-at="2021-08-06T14:14:54 IST">
+        <test-method status="PASS" signature="m1()[pri:0, instance:excel.firstexcel@1206beb]" name="m1" duration-ms="9466" started-at="2021-08-06T16:49:49 IST" finished-at="2021-08-06T16:49:59 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m1 -->
